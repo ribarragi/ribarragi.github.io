@@ -21,6 +21,12 @@ img.Hover:hover {
 # About me
 
 
+# Projects
+
+# Machine Learning
+# R Shiny
+# GIS
+
 
 
 
