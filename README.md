@@ -1,26 +1,49 @@
-<!-- <html>
+<html>
 <head>
 <style>
 img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  /* width: 150px; */
+  /* border: 1px solid #ddd; */
+  /* border-radius: 6px; */
+  /* padding: 2px; */
+  padding-right: 16px;
 }
-img.Hover:hover {
-  opacity: 0.8;
+/* img.Hover:hover {
+  opacity: 1;
+} */
+img.Photo {
+   float: left;
 }
+
 </style>
 </head>
-<body> -->
+<body>
 
 # Portfolio: Ricardo Ibarra Gil
 
-# About me
-I am currently a graduate student at Carnegie Mellon University
+
+<img class="Photo" src="assets/RIG_CMU.JPG" atl="Ricardo Ibarra"  width="200" height="240">
+
+## About me
+
+
+
+I am currently a graduate student at Carnegie Mellon University  
+.   
+.   
+.  
+.  
+.  
+.   
+.  
+.  
+.  
+
+
 
 # Projects
-I have particpated in different projects...
+I have particpated in different projects...  
+   
+     
 
 
 # Machine Learning
@@ -52,8 +75,9 @@ Link here: https://ribarragi.github.io/
 
 
 
-<img class="Hover" src="assets/RIG_CMU.JPG" atl="Ricardo Ibarra"  width="180" height="220">
 
 
 </body>
 </html>
+
+
