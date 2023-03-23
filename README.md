@@ -63,6 +63,8 @@ I have particpated in different projects...
 
 <b> Project 1: [Analysis of car crashes in Allegheny county](https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html) </b>
 
+<b> Project 1: [Analysis of car crashes in Allegheny county](ast_projects/Carcrashes_Allegheny.html) </b>
+
 <h2> GIS  </h2>
 
 
