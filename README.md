@@ -59,8 +59,12 @@ I am also a wine sommelier. While my favorites wines change over time, I am a fe
 I have particpated in different projects...       
 
 <h2> Machine Learning  </h2>
-<h2> R Shiny  </h2>
+<h2> R  and R Shiny  </h2>  
+
+Project 1: [Analysis of car crashes in Allegheny county](https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html)
+
 <h2> GIS  </h2>
+
 
 <h1 class="main"> Previous work experience  <h1>
 
