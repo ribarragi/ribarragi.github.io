@@ -52,7 +52,9 @@ Geographic data analytics...
 Teaching Assistant for Intermediate Python, GIS.
 Tutoring for Introduction to Python.  
 
-I am also a wine sommelier. While my favorites wines change over time, I am a fervent promotor of Mexican red wines (especially from the northern states), and I am currently exploring mostly California Pinot Noirs.
+Etcetera
+
+
 
 <h1 class="main"> Projects </h1>
 
@@ -61,24 +63,44 @@ I have particpated in different projects...
 <h2> Machine Learning  </h2>
 <h2> R  and R Shiny  </h2>  
 
-<b> Project 1: <a href="  (https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html)">Analysis of car crashes in Allegheny county</a></b>
+<b> Project 1: <a href="  (https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html)">Analysis of car crashes in Allegheny county</a></b>  
+Date, 2021 - Date, 2021.  
+Brief description
 
 
 
-<h2> GIS  </h2>
+
+
+
+<h2> GIS  </h2>  
+<b> Project 1: <a href="  (https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html)">Analysis of car crashes in Allegheny county</a></b>  
+
+<b>Ongoing</b>  
+Brief description  ...
+
+
 
 
 <h1 class="main"> Previous work experience  <h1>
 
-# In the USA  
+
 ## Carvana
 something  
 something  
 
-# In Mexico  
 ## Structura  
+something  
+something
 
 
+<h1 class="main"> Education </h1>
+
+<img class="Photo" src="assets/CMU.png" atl="Carnegie Mellon logo"  width="50" height="50"> Carnegie Mellon University  
+MSc in Public Policy and Data Analytics
+
+
+<img class="Photo" src="assets/ITAM.jpg" atl="ITAM logo"  width="50" height="50"> ITAM  
+BA in Economics
 
 
 This is the landing page for my personal portfolio    
