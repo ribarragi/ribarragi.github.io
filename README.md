@@ -61,7 +61,7 @@ I have particpated in different projects...
 <h2> Machine Learning  </h2>
 <h2> R  and R Shiny  </h2>  
 
-Project 1: [Analysis of car crashes in Allegheny county](https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html)
+<b> Project 1: [Analysis of car crashes in Allegheny county](https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html) </b>
 
 <h2> GIS  </h2>
 
