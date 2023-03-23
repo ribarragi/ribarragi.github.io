@@ -1,4 +1,4 @@
-<html>
+<!-- <html>
 <head>
 <style>
 img {
@@ -12,7 +12,7 @@ img.Hover:hover {
 }
 </style>
 </head>
-<body>
+<body> -->
 
 # Portfolio: Ricardo Ibarra Gil
 
@@ -48,7 +48,7 @@ This is not
 <!-- <img src="assets/RIG_CMU.JPG" atl="Ricardo Ibarra"  width="180" height="220"> -->
 
 
-Link here: https://ribarragi.github.io  
+Link here: https://ribarragi.github.io/
 
 
 
