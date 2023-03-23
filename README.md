@@ -96,17 +96,15 @@ something
 
 <h1 class="main"> Education </h1>
 
-<img class="Photo" src="assets/CMU.png" atl="Carnegie Mellon logo"  width="50" height="50"> Carnegie Mellon University  
-MSc in Public Policy and Data Analytics
+<img class="Photo" src="assets/CMU.png" atl="Carnegie Mellon logo"  width="50" height="50"> Carnegie Mellon University<br>
+MSc in Public Policy and Data Analytics<br>
 
 
-<img class="Photo" src="assets/ITAM.jpg" atl="ITAM logo"  width="50" height="50"> ITAM  
-BA in Economics
+<img class="Photo" src="assets/ITAM.jpg" atl="ITAM logo"  width="50" height="50"> ITAM<br>
+BA in Economics<br>
 
 
-This is the landing page for my personal portfolio    
 
-This is not    
 
 <!-- <img src="assets/RIG_CMU.JPG" atl="Ricardo Ibarra"  width="180" height="220"> -->
 
