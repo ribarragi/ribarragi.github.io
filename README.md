@@ -65,7 +65,8 @@ I have particpated in different projects...
 
 <b> Project 1: [Analysis of car crashes in Allegheny county](ast_projects/Carcrashes_Allegheny.html) </b>
 
-[King County Covid spread](https://ribarrag.github.io/portfolio_TSWD/KingCounty_covid.html)
+Differemt way to embed a <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html">link</a> of professionals working hard to provide free learning content.
+
 
 <h2> GIS  </h2>
 
