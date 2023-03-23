@@ -96,11 +96,11 @@ something
 
 <h1 class="main"> Education </h1>
 
-<img class="Photo" src="assets/CMU.png" atl="Carnegie Mellon logo"  width="50" height="50"> Carnegie Mellon University<br>
+<img class="Photo" src="assets/CMU.png" atl="Carnegie Mellon logo"  width="45" height="45"> Carnegie Mellon University<br>
 MSc in Public Policy and Data Analytics<br>
 
 
-<img class="Photo" src="assets/ITAM.jpg" atl="ITAM logo"  width="50" height="50"> ITAM<br>
+<img class="Photo" src="assets/ITAM.jpg" atl="ITAM logo"  width="45" height="45"> ITAM<br>
 BA in Economics<br>
 
 
