@@ -65,6 +65,8 @@ I have particpated in different projects...
 
 <b> Project 1: [Analysis of car crashes in Allegheny county](ast_projects/Carcrashes_Allegheny.html) </b>
 
+[King County Covid spread](https://ribarrag.github.io/portfolio_TSWD/KingCounty_covid.html)
+
 <h2> GIS  </h2>
 
 
