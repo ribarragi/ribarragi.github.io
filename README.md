@@ -64,7 +64,9 @@ I have particpated in different projects...
 <h2> R  and R Shiny  </h2>  
 
 <b> Project 1: <a href="  (https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html)">Analysis of car crashes in Allegheny county</a></b>  
-Date, 2021 - Date, 2021.  
+
+Date, 2021 - Date, 2021  
+
 Brief description
 
 
