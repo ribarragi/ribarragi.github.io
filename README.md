@@ -36,30 +36,33 @@ h2{
 <h2> About me </h2>
 
 I am currently a graduate student at Carnegie Mellon University  
-I have a special interest in consumer behavior
-The use of data to understand consumer behavior. 
+
+My main interests are:
+Machine learning ..
+
 To solve complex problems.
 To get insights that would go unnoticed  
 
-I am also a wine sommelier. While my favorites wines change over time, I am a fervent promotor of Mexican red wines (especially from the northern states), and I am currently exploring mostly California Pinot Noirs.
+The use of data to better understand consumer behavior  
 
-.Teaching assitatn for Intermediate Python, GIS.
+Social listening to enhance consumer experience
+
+Geographic data analytics...
+
+Teaching Assistant for Intermediate Python, GIS.
 Tutoring for Introduction to Python.  
 
+I am also a wine sommelier. While my favorites wines change over time, I am a fervent promotor of Mexican red wines (especially from the northern states), and I am currently exploring mostly California Pinot Noirs.
 
+<h1 class="main"> Projects </h1>
 
-# Projects
-I have particpated in different projects...    
-   
-     
+I have particpated in different projects...       
 
+<h2> Machine Learning  </h2>
+<h2> R Shiny  </h2>
+<h2> GIS  </h2>
 
-# Machine Learning  
-# R Shiny  
-# GIS  
-
-
-# Previous work experience  
+<h1 class="main"> Previous work experience  <h1>
 
 # In the USA  
 ## Carvana
