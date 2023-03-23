@@ -14,31 +14,41 @@ img.Hover:hover {
 </head>
 <body>
 
-
-
 # Portfolio: Ricardo Ibarra Gil
 
 # About me
-
+I am currently a graduate student at Carnegie Mellon University
 
 # Projects
+I have particpated in different projects...
+
 
 # Machine Learning
 # R Shiny
 # GIS
 
 
+# Previous work experience
+
+# In the USA
+## Carvana
+something
+something
+
+# In Mexico
+## Structura
 
 
 
-This is the landing page for my personal portfolio
 
-This is not
+This is the landing page for my personal portfolio  
+
+This is not  
 
 <!-- <img src="assets/RIG_CMU.JPG" atl="Ricardo Ibarra"  width="180" height="220"> -->
 
 
-Link here: https://ribarragi.github.io
+Link here: https://ribarragi.github.io  
 
 
 
