@@ -43,37 +43,38 @@ To get insights that would go unnoticed
 
 I am also a wine sommelier. While my favorites wines change over time, I am a fervent promotor of Mexican red wines (especially from the northern states), and I am currently exploring mostly California Pinot Noirs.
 
-.  
+.Teaching assitatn for Intermediate Python, GIS.
+Tutoring for Introduction to Python.  
 
 
 
 # Projects
-I have particpated in different projects...  
+I have particpated in different projects...    
    
      
 
 
-# Machine Learning
-# R Shiny
-# GIS
+# Machine Learning  
+# R Shiny  
+# GIS  
 
 
-# Previous work experience
+# Previous work experience  
 
-# In the USA
+# In the USA  
 ## Carvana
-something
-something
+something  
+something  
 
-# In Mexico
-## Structura
-
-
+# In Mexico  
+## Structura  
 
 
-This is the landing page for my personal portfolio  
 
-This is not  
+
+This is the landing page for my personal portfolio    
+
+This is not    
 
 <!-- <img src="assets/RIG_CMU.JPG" atl="Ricardo Ibarra"  width="180" height="220"> -->
 
