@@ -61,11 +61,8 @@ I have particpated in different projects...
 <h2> Machine Learning  </h2>
 <h2> R  and R Shiny  </h2>  
 
-<b> Project 1: [Analysis of car crashes in Allegheny county](https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html) </b>
+<b> Project 1: <a href="  (https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html)">Analysis of car crashes in Allegheny county</a></b>
 
-<b> Project 1: [Analysis of car crashes in Allegheny county](ast_projects/Carcrashes_Allegheny.html) </b>
-
-Differemt way to embed a <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html">link</a> of professionals working hard to provide free learning content.
 
 
 <h2> GIS  </h2>
