@@ -35,6 +35,7 @@ h2{
 
 <h2> About me </h2>
 
+
 I am currently a graduate student at Carnegie Mellon University  
 
 My main interests are:
@@ -58,16 +59,20 @@ Etcetera<br>
 
 <h1 class="main"> Projects </h1>
 
-I have particpated in different projects...       
-
 <h2> Machine Learning  </h2>
-Include some projects here
-
-<h2> R  and R Shiny  </h2>  
-
+<b> Sentiment analysis using NLP and logistic regression </b><br>
+August, 2022 - December, 2022<br>
+Examined tweets about different brands of glucose-monitoring devices to find the most relevant features for positive and negative sentiments, uncover users’ knowledge gaps, and recommend the brands what actions would improve users’ perceptions<br>
+<br>
+<b>Detection of Monkeypox and simulation of early detection policies using a Convolutional Neural Network and epidemiological models</b><br>
+August, 2022 - December, 2022<br>
+Description<br>
+<br>
+<h2> R  and R Shiny  </h2>  <br>
 <b> Project 1: <a href="  (https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html)">Analysis of car crashes in Allegheny county</a></b><br>
 Date, 2021 - Date, 2021 <br>
 Brief description<br>
+<br>
 
 
 
@@ -75,16 +80,14 @@ Brief description<br>
 
 
 <h2> GIS  </h2>  
-<b>Project 1:<a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html"> Analysis of car crashes in Allegheny county</a></b><br>  
-Ongoing2<br>
-Brief description  ...
+<b>Distribution mapping for Electric Vehicle Charging within urban communities</b><br>  
+<b>Ongoing...</b><br>
+Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
 
 
 
 
-<h1 class="main"> Previous work experience  <h1>
-
-
+<h1 class="main">Previous work experience<h1>
 <h2> Carvana </h2>
 something  
 something  
@@ -115,7 +118,5 @@ Link here: https://ribarragi.github.io/
 
 
 
-</body>
-</html>
 
 
