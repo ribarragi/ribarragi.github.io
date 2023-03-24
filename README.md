@@ -64,7 +64,7 @@ Etcetera<br>
 August, 2022 - December, 2022<br>
 Examined tweets about different brands of glucose-monitoring devices to find the most relevant features for positive and negative sentiments, uncover users’ knowledge gaps, and recommend the brands what actions would improve users’ perceptions<br>
 <br>
-<b>Detection of Monkeypox and simulation of early detection policies using a Convolutional Neural Network and epidemiological models</b><br>
+<b>Detection of Monkeypox and simulation of early detection policies using a Convolutional Neural Network and epidemiological models --> <a href="https://github.com/ribarragi/past_projects/blob/72246a17a20fb6acceea934dabe03c2acc1354e2/SIR_NN_Project%20Report.pdf"> Final report </a> --> <a href="https://github.com/mahrukh-k/DABP.git">Code</a></b><br>
 August, 2022 - December, 2022<br>
 Description<br>
 <br>
