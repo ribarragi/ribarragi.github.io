@@ -68,14 +68,10 @@ Examined tweets about different brands of glucose-monitoring devices to find the
 August, 2022 - December, 2022<br>
 Description<br>
 <br>
-<h2> R  and R Shiny  </h2>  <br>
-<b> Project 1: <a href="  (https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html)">Analysis of car crashes in Allegheny county</a></b><br>
-Date, 2021 - Date, 2021 <br>
-Brief description<br>
+<b>Profiling credit card clients for a bank using dimensionality reduction and clustering</b><br>
+January, 2022 - April, 2022<br>
+Analyzed customers' usage of credit cards using Principal Component Analysis and different clustering methods to generate clients' profiles and recommend tailored strategies and products.<br>
 <br>
-
-
-
 
 
 
@@ -86,6 +82,27 @@ Locate the best sites for Electric Vehicle public charging stations, considering
 <b>FINAL PROJECT GIS CLASS</b><br>  
 <b>Ongoing...</b><br>
 Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
+
+
+<h2> R  and R Shiny  </h2>
+<b> Project 1: <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html">Analysis of car crashes in Allegheny county</a></b><br>
+Date, 2021 - Date, 2021 <br>
+Brief description<br>
+<br>
+
+
+
+
+<h2> Other projects  </h2>
+<b>Application to assist people relocating in the U.S. using Python</b><br>
+Augist, 2021 - December, 2021<br>
+It presents key indicators of living conditions at the county level in the user's area of interest, along with interactive maps. Data sources include API, web scraping, and CSV.<br>
+<br>
+<b>EDA analysis on .... RESERVATINOS AND CANCELATIONS: preguntas 1 y 2</b><br>
+Augist, 2021 - December, 2021<br>
+<br>
+<br>
+
 
 
 
