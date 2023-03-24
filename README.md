@@ -109,7 +109,7 @@ Augist, 2021 - December, 2021<br>
 
 <h1 class="main">Previous work experience<h1>
 <h2> Carvana </h2>
-something  
+Product Analytics Intern
 something  
 
 <h2> StructurA </h2>
