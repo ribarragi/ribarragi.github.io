@@ -79,20 +79,33 @@ Analyzed customers' usage of credit cards using Principal Component Analysis and
 <b>Distribution mapping for Electric Vehicle Charging within urban communities</b><br>  
 <b>Ongoing...</b><br>
 Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
-<b>FINAL PROJECT GIS CLASS</b><br>  
+<br>
+<!-- <b>FINAL PROJECT GIS CLASS</b><br>  
 <b>Ongoing...</b><br>
-Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
-
-
+Description...<br>
+<br> -->
+<br>
 <h2> R  and R Shiny  </h2>
 <b> Project 1: <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html">Analysis of car crashes in Allegheny county</a></b><br>
 Date, 2021 - Date, 2021 <br>
 Brief description<br>
 <br>
+<b>Crimes in  Chicago, 2022 --> <a href="https://wxctrb-ricardo-ibarra0gil.shinyapps.io/hw1-ribarrag/">Dashboard</a> -->
+<a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html">Code</a></b><br>
+Date, 2021 - Date, 2021 <br>
+Dashboard showing crimes committed in Chicago during 2022. The dashboard contains: 1) a bar chart with the number of crimes per month; 2) a tree map with the type of crimes; 3) a heat map witht he crimes by time and day of the week; and 4) a table with the raw data. All 4 elements are reactive to the filters: Location of crime, include/exclude domestic violence crimes. Selected data can be downloaded as a csv file. <br>
+<br>
 
-
-
-
+<b> U.S. airports (1990 - 2022) <br><a href="https://wxctrb-ricardo-ibarra0gil.shinyapps.io/final_app/?_ga=2.56959658.1004282767.1679676223-1603397868.1679676223">Dashboard</a><br>
+<a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html">Code</a></b><br>
+Date, 2021 - Date, 2021 <br>
+Dashboard displaying 1) location of U.S. airports on a map; 2) stacked bar chart with total flyers in selected airports by year and by carrier origin; 3) top 5 carriers operating in selected airports with total no. of passengers. All elements are reactive to the filters that enable the user to select: the airport(s) to be shown in map and data dsiplayed, the years for which the data will be displayed; 3) the state(s). Selected data can be downloaded as a csv file. <br>
+<br>
+<b> Shopping store data <br><a href="https://wxctrb-ricardo-ibarra0gil.shinyapps.io/final_app/?_ga=2.56959658.1004282767.1679676223-1603397868.1679676223">Dashboard</a><br>
+<a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html">Code</a></b><br>
+Date, 2021 - Date, 2021 <br>
+Dashboard contains three bins: 1) products sold and customers, shows information about cusomter's income, amount spent per type of grocery and composition of sales; 2) sales channel, displays data about sales channel (online, in store, catalog) over time; 3) data table, shows all selected data as a raw table, which can be downloaded in .csv format. All 3 tabs contain graphs and tables reactive to filters that enable the user select: customers' age range, customers' education level; number of children in customers' households. <br>
+<br>
 <h2> Other projects  </h2>
 <b>Application to assist people relocating in the U.S. using Python</b><br>
 Augist, 2021 - December, 2021<br>
@@ -126,6 +139,8 @@ MSc in Public Policy and Data Analytics<br>
 BA in Economics<br>
 
 
+# Telling stories with data
+# GIS final project
 
 
 <!-- <img src="assets/RIG_CMU.JPG" atl="Ricardo Ibarra"  width="180" height="220"> -->
