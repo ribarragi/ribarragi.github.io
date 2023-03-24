@@ -66,7 +66,7 @@ Examined tweets about different brands of glucose-monitoring devices to find the
 <br>
 <b>Detection of Monkeypox and simulation of early detection policies using a Convolutional Neural Network and epidemiological models --> <a href="https://github.com/ribarragi/past_projects/blob/72246a17a20fb6acceea934dabe03c2acc1354e2/SIR_NN_Project%20Report.pdf"> Final report </a> --> <a href="https://github.com/mahrukh-k/DABP.git">Code</a></b><br>
 August, 2022 - December, 2022<br>
-Description<br>
+Developed an app to identify monkeypox from skin lesions imagery, as well as an epidemiological model to simulate the app’s impact on the spread of monkeypox in U.S. population<br>
 <br>
 <b>Profiling credit card clients for a bank using dimensionality reduction and clustering</b><br>
 January, 2022 - April, 2022<br>
