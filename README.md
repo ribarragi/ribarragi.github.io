@@ -55,7 +55,7 @@ Tutoring for Introduction to Python.  <br>
 
 Etcetera<br>
 Etcetera<br>
-
+Etcetera<br>
 
 <h1 class="main"> Projects </h1>
 
@@ -83,6 +83,9 @@ Brief description<br>
 <b>Distribution mapping for Electric Vehicle Charging within urban communities</b><br>  
 <b>Ongoing...</b><br>
 Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
+<b>FINAL PROJECT GIS CLASS</b><br>  
+<b>Ongoing...</b><br>
+Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
 
 
 
@@ -99,11 +102,10 @@ something
 
 <h1 class="main"> Education </h1>
 
-<img class="Photo" src="assets/CMU.png" atl="Carnegie Mellon logo"  width="45" height="45"> Carnegie Mellon University<br>
+<img class="Photo" src="assets/CMU.png" atl="Carnegie Mellon logo"  width="45" height="45"> <b>Carnegie Mellon University</b><br>
 MSc in Public Policy and Data Analytics<br>
-
-
-<img class="Photo" src="assets/ITAM.jpg" atl="ITAM logo"  width="45" height="45"> ITAM<br>
+<br>
+<img class="Photo" src="assets/ITAM.jpg" atl="ITAM logo"  width="45" height="45"> <b>ITAM</b><br>
 BA in Economics<br>
 
 
