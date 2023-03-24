@@ -80,10 +80,11 @@ Analyzed customers' usage of credit cards using Principal Component Analysis and
 <b>Ongoing...</b><br>
 Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
 <br>
-<!-- <b>FINAL PROJECT GIS CLASS</b><br>  
-<b>Ongoing...</b><br>
-Description...<br>
-<br> -->
+<b>Access to health services in Mexico City. The role of Medical Offices in Pharmacies (MOPs) --><a href="https://storymaps.arcgis.com/stories/8381685eb7764b63b4a5b98e356b405a"> Story map</a></b><br>  
+January, 2022 - May, 2022<br>
+This geo spatial analysis shows that the main logic behind the expansion of MOPs in Mexico City has not been -as often publicized- trying to reach unserved population, but rather capturing a market previously served by other options of healthcare, rather than expanding towards underserved areas.
+Additionally, state level data provides little evidence about the behavior of MOP doctors towards prescription drugs. But it provides somewhat stronger evidence about some of the factors that drive peoples decision to use their services (lower waiting time, and lower travel times)<br>
+<br>
 <br>
 <h2> R  and R Shiny  </h2>
 <b> Project 1: <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html">Analysis of car crashes in Allegheny county</a></b><br>
