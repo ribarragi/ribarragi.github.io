@@ -36,7 +36,7 @@ h2{
 <h2> About me </h2>
 
 
-I am currently a graduate student at Carnegie Mellon University  
+I am currently a graduate student at <b>Carnegie Mellon University </b>
 
 My main interests are:
 Machine learning ..
@@ -112,8 +112,8 @@ Dashboard displaying 1) location of U.S. airports on a map; 2) stacked bar chart
 Date, 2021 - Date, 2021 <br>
 Dashboard contains three bins: 1) products sold and customers, shows information about cusomter's income, amount spent per type of grocery and composition of sales; 2) sales channel, displays data about sales channel (online, in store, catalog) over time; 3) data table, shows all selected data as a raw table, which can be downloaded in .csv format. All 3 tabs contain graphs and tables reactive to filters that enable the user select: customers' age range, customers' education level; number of children in customers' households. <br>
 <br>
-<!-- <h2> Other projects  </h2>
-<b>Application to assist people relocating in the U.S. using Python</b><br>
+<h2> Other projects  </h2>
+<!-- <b>Application to assist people relocating in the U.S. using Python</b><br>
 August, 2021 - December, 2021<br>
 It presents key indicators of living conditions at the county level in the user's area of interest, along with interactive maps. Data sources include API, web scraping, and CSV.<br>
 <br>
@@ -121,11 +121,11 @@ It presents key indicators of living conditions at the county level in the user'
 Augist, 2021 - December, 2021<br>
 <br>
 <br> -->
-<br>
+
 <b>Interactive covid vaccination maps in the U.S. (plotly) --> <a href="https://ribarragi.github.io/past_projects/US_BoosterMap_county.html">Continental U.S.</a> --> <a href="https://ribarragi.github.io/past_projects/BoosterMap_county_FL.html">Florida</a> --> <a href="https://ribarragi.github.io/past_projects/BoosterMap_county_GA.html">Georgia</a> --> <a href="https://ribarragi.github.io/past_projects/BoosterMap_county_PA.html ">Pennsylvania</a></b><br>
 August, 2021 - December, 2021<br>
 <br>
-<br> -->
+<br>
 
 <!-- <h1 class="main">Previous work experience<h1>
 <h2> Carvana </h2>
