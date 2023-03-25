@@ -24,6 +24,10 @@ h2{
   color: #326FDC;
   font-weight: 600;
 }
+a:hover{
+  /* opacity: 0.35 */
+  color: #e32636
+}
 
 </style>
 </head>
