@@ -50,8 +50,8 @@ Social listening to enhance consumer experience
 
 Geographic data analytics...
 
-Teaching Assistant for Intermediate Python, GIS.
-Tutoring for Introduction to Python.  <br>
+Teaching Assistant for <b>Intermediate Python, Geographic Information Systems (GIS)</b><br>
+Tutoring for <b>Introduction to Python </b><br>
 
 Etcetera<br>
 Etcetera<br>
@@ -60,10 +60,10 @@ Etcetera<br>
 <h1 class="main"> Projects </h1>
 
 <h2> Machine Learning  </h2>
-<b> Sentiment analysis using NLP and logistic regression</b><br>
+<!-- <b> Sentiment analysis using NLP and logistic regression</b><br>
 August, 2022 - December, 2022<br>
 Examined tweets about different brands of glucose-monitoring devices to find the most relevant features for positive and negative sentiments, uncover users’ knowledge gaps, and recommend the brands what actions would improve users’ perceptions<br>
-<br>
+<br> -->
 <b>Detection of Monkeypox and simulation of early detection policies using a Convolutional Neural Network and epidemiological models --> <a href="https://github.com/ribarragi/past_projects/blob/72246a17a20fb6acceea934dabe03c2acc1354e2/SIR_NN_Project%20Report.pdf"> Final report </a> --> <a href="https://github.com/mahrukh-k/DABP.git">Code</a></b><br>
 August, 2022 - December, 2022<br>
 Developed an app to identify monkeypox from skin lesions imagery, as well as an epidemiological model to simulate the app’s impact on the spread of monkeypox in U.S. population<br>
@@ -72,8 +72,8 @@ Developed an app to identify monkeypox from skin lesions imagery, as well as an 
 January, 2022 - April, 2022<br>
 Analyzed customers' usage of credit cards using Principal Component Analysis and different clustering methods to generate clients' profiles and recommend tailored strategies and products.<br>
 <br>
-<b>Sentiment analysis of social media posts relate to train derailment in East Palestine Ohio: were government, media and people in the same channel? --> <a href="https://github.com/ribarragi/past_projects/blob/72246a17a20fb6acceea934dabe03c2acc1354e2/SIR_NN_Project%20Report.pdf"> In progress </a> --> <a href="https://github.com/mahrukh-k/DABP.git">Code</a></b><br>
-Janaury, 2023 - ...<br>
+<b>Sentiment analysis of social media posts relate to train derailment in East Palestine Ohio: were government, media and people in the same channel? --> <a href="https://github.com/ribarragi/Intro_AI_project.git"> In progress </a></b><br>
+January, 2023 - ...<br>
 Developed an app to identify monkeypox from skin lesions imagery, as well as an epidemiological model to simulate the app’s impact on the spread of monkeypox in U.S. population<br>
 <br>
 
@@ -112,21 +112,22 @@ Dashboard displaying 1) location of U.S. airports on a map; 2) stacked bar chart
 Date, 2021 - Date, 2021 <br>
 Dashboard contains three bins: 1) products sold and customers, shows information about cusomter's income, amount spent per type of grocery and composition of sales; 2) sales channel, displays data about sales channel (online, in store, catalog) over time; 3) data table, shows all selected data as a raw table, which can be downloaded in .csv format. All 3 tabs contain graphs and tables reactive to filters that enable the user select: customers' age range, customers' education level; number of children in customers' households. <br>
 <br>
-<h2> Other projects  </h2>
+<!-- <h2> Other projects  </h2>
 <b>Application to assist people relocating in the U.S. using Python</b><br>
-Augist, 2021 - December, 2021<br>
+August, 2021 - December, 2021<br>
 It presents key indicators of living conditions at the county level in the user's area of interest, along with interactive maps. Data sources include API, web scraping, and CSV.<br>
 <br>
 <b>EDA analysis on .... RESERVATINOS AND CANCELATIONS: preguntas 1 y 2</b><br>
 Augist, 2021 - December, 2021<br>
 <br>
+<br> -->
 <br>
+<b>Interactive covid vaccination maps in the U.S. (plotly) --> <a href="https://ribarragi.github.io/past_projects/US_BoosterMap_county.html">Continental U.S.</a> --> <a href="https://ribarragi.github.io/past_projects/BoosterMap_county_FL.html">Florida</a> --> <a href="https://ribarragi.github.io/past_projects/BoosterMap_county_GA.html">Georgia</a> --> <a href="https://ribarragi.github.io/past_projects/BoosterMap_county_PA.html ">Pennsylvania</a></b><br>
+August, 2021 - December, 2021<br>
+<br>
+<br> -->
 
-
-
-
-
-<h1 class="main">Previous work experience<h1>
+<!-- <h1 class="main">Previous work experience<h1>
 <h2> Carvana </h2>
 Product Analytics Intern
 something  
@@ -134,7 +135,7 @@ something
 <h2> StructurA </h2>
 something  
 something
-
+ -->
 
 <h1 class="main"> Education </h1>
 
@@ -144,15 +145,15 @@ MSc in Public Policy and Data Analytics<br>
 <img class="Photo" src="assets/ITAM.jpg" atl="ITAM logo"  width="45" height="45"> <b>ITAM</b><br>
 BA in Economics<br>
 
-
+<!-- 
 # Telling stories with data
-# GIS final project
+# GIS final project -->
 
 
 <!-- <img src="assets/RIG_CMU.JPG" atl="Ricardo Ibarra"  width="180" height="220"> -->
 
-
-Link here: https://ribarragi.github.io/
+<!-- 
+Link here: https://ribarragi.github.io/ -->
 
 
 
