@@ -53,9 +53,14 @@ Geographic data analytics...
 Teaching Assistant for <b>Intermediate Python, Geographic Information Systems (GIS)</b><br>
 Tutoring for <b>Introduction to Python </b><br>
 
+
+<br>
+<br>
+<br>
+<br>
+<!-- Etcetera<br>
 Etcetera<br>
-Etcetera<br>
-Etcetera<br>
+Etcetera<br> -->
 
 <h1 class="main"> Projects </h1>
 
@@ -86,6 +91,15 @@ Developed an app to identify monkeypox from skin lesions imagery, as well as an 
 January, 2022 - May, 2022<br>
 This geo spatial analysis shows that the main logic behind the expansion of MOPs in Mexico City has not been -as often publicized- trying to reach unserved population, but rather capturing a market previously served by other options of healthcare, rather than expanding towards underserved areas.
 Additionally, state level data provides little evidence about the behavior of MOP doctors towards prescription drugs. But it provides somewhat stronger evidence about some of the factors that drive peoples decision to use their services (lower waiting time, and lower travel times)<br>
+<br>
+<b> Map tornadoes... in the U.S. with clustering analysis --> <a href="https://github.com/ribarragi/past_projects/blob/c0d279834473e786864dfe8da9f4c29dca2363de/GIS_tornadoes.pdf">Map</a></b><br>
+March, 2022 <br>
+Analyze historical data of tornadoes in the U.S. from 2000 throu 2008: perform k-means clustering on several measures of impact to identify areas with the most fatalities, injuries, and damages, and determine whether they fall inside or outside of "Tornado Alley", a location of central U.S. where tornadoes are most frequent. <br>
+<br>
+<b> Walkability in two neighborhoods in Pittsburgh --> <a href="https://github.com/ribarragi/past_projects/blob/6d06bca2a7c54222cbb31e4e3618b4eabe2aacda/GIS_assesswalkability.pdf">Map</a></b><br>
+February, 2022 <br>
+Assess walkability of two neighborhoods in Pittburgh, PA, based on different criteria such as density, availability of parks and playgrounds, terrain elevation, and street patterns. <br>
+<br>
 <br>
 <b>Distribution mapping for Electric Vehicle Charging within urban communities</b><br>  
 <b>In progress...</b><br>
