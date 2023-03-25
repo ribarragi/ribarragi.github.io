@@ -60,7 +60,7 @@ Etcetera<br>
 <h1 class="main"> Projects </h1>
 
 <h2> Machine Learning  </h2>
-<b> Sentiment analysis using NLP and logistic regression </b><br>
+<b> Sentiment analysis using NLP and logistic regression</b><br>
 August, 2022 - December, 2022<br>
 Examined tweets about different brands of glucose-monitoring devices to find the most relevant features for positive and negative sentiments, uncover users’ knowledge gaps, and recommend the brands what actions would improve users’ perceptions<br>
 <br>
@@ -68,22 +68,28 @@ Examined tweets about different brands of glucose-monitoring devices to find the
 August, 2022 - December, 2022<br>
 Developed an app to identify monkeypox from skin lesions imagery, as well as an epidemiological model to simulate the app’s impact on the spread of monkeypox in U.S. population<br>
 <br>
-<b>Profiling credit card clients for a bank using dimensionality reduction and clustering</b><br>
+<b>Profiling credit card clients for a bank using dimensionality reduction and clustering--> <a href="https://ribarragi.github.io/past_projects/Profiling_CC_brief.html#/">Final report with code</a></b><br>
 January, 2022 - April, 2022<br>
 Analyzed customers' usage of credit cards using Principal Component Analysis and different clustering methods to generate clients' profiles and recommend tailored strategies and products.<br>
 <br>
+<b>Sentiment analysis of social media posts relate to train derailment in East Palestine Ohio: were government, media and people in the same channel? --> <a href="https://github.com/ribarragi/past_projects/blob/72246a17a20fb6acceea934dabe03c2acc1354e2/SIR_NN_Project%20Report.pdf"> In progress </a> --> <a href="https://github.com/mahrukh-k/DABP.git">Code</a></b><br>
+Janaury, 2023 - ...<br>
+Developed an app to identify monkeypox from skin lesions imagery, as well as an epidemiological model to simulate the app’s impact on the spread of monkeypox in U.S. population<br>
+<br>
+
+
 
 
 
 <h2> GIS  </h2>  
-<b>Distribution mapping for Electric Vehicle Charging within urban communities</b><br>  
-<b>Ongoing...</b><br>
-Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
-<br>
 <b>Access to health services in Mexico City. The role of Medical Offices in Pharmacies (MOPs) --><a href="https://storymaps.arcgis.com/stories/8381685eb7764b63b4a5b98e356b405a"> Story map</a></b><br>  
 January, 2022 - May, 2022<br>
 This geo spatial analysis shows that the main logic behind the expansion of MOPs in Mexico City has not been -as often publicized- trying to reach unserved population, but rather capturing a market previously served by other options of healthcare, rather than expanding towards underserved areas.
 Additionally, state level data provides little evidence about the behavior of MOP doctors towards prescription drugs. But it provides somewhat stronger evidence about some of the factors that drive peoples decision to use their services (lower waiting time, and lower travel times)<br>
+<br>
+<b>Distribution mapping for Electric Vehicle Charging within urban communities</b><br>  
+<b>In progress...</b><br>
+Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
 <br>
 <br>
 <h2> R  and R Shiny  </h2>
