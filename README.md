@@ -14,6 +14,10 @@ img.Photo {
    float: left;
    padding-right: 16px;
 }
+img.Graph {
+   float: right;
+   padding-right: 4px;
+}
 h1.main {
   color: #1E4385;
   font-family: Verdana;
@@ -81,9 +85,20 @@ GIS
 Stata -->
 
 <!-- <img src="assets/donut_chart.html" atl="Ricardo Ibarra"  width="200" height="240"> -->
+<br>
+<br>
 
-<img src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="300" height="220">
 
+<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="300" height="220">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
