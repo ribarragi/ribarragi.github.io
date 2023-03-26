@@ -58,16 +58,6 @@ The use of data to better understand consumer behavior
 Social listening to enhance consumer experience
 
 Geographic data analytics...
-<br>
-
-
-<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="600" height="260">
-<h2> My interests and skills </h2>
-<!-- <img class="Graph"  src="assets/my_interests_and_skills_2.png" atl="Donut chart with interests and skills"  width="260" height="160"> -->
-<br>
-<br>
-<br>
-<br>
 Data Science
 
 Data analytics
@@ -77,6 +67,13 @@ Pyspark
 
 Teaching Assistant for <b>Intermediate Python, Geographic Information Systems (GIS)</b><br>
 Tutoring for <b>Introduction to Python </b><br>
+<br>
+
+
+<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="600" height="260">
+<!-- <img class="Graph"  src="assets/my_interests_and_skills_2.png" atl="Donut chart with interests and skills"  width="260" height="160"> -->
+<br>
+
 
 <!-- # METER UNA GRAFICA DE INTERESES
 25% GIS
