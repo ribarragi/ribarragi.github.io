@@ -15,7 +15,7 @@ img.Photo {
    padding-right: 16px;
 }
 img.Graph {
-   float: center;
+   float: right;
    padding-right: 4px;
 }
 h1.main {
