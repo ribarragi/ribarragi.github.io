@@ -41,6 +41,7 @@ a:hover{
 
 <img class="Photo" src="assets/RIG_CMU.JPG" atl="Ricardo Ibarra"  width="200" height="240">
 
+
 <h2> About me </h2>
 
 
@@ -57,6 +58,7 @@ The use of data to better understand consumer behavior
 Social listening to enhance consumer experience
 
 Geographic data analytics...
+<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="360" height="280">
 
 Data Science
 
@@ -85,11 +87,8 @@ GIS
 Stata -->
 
 <!-- <img src="assets/donut_chart.html" atl="Ricardo Ibarra"  width="200" height="240"> -->
-<br>
-<br>
 
 
-<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="300" height="220">
 
 <br>
 <br>
