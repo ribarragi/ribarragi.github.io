@@ -68,6 +68,7 @@ Pyspark
 Teaching Assistant for <b>Intermediate Python, Geographic Information Systems (GIS)</b><br>
 Tutoring for <b>Introduction to Python </b><br>
 <br>
+<br>
 
 
 <img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="600" height="260">
@@ -95,16 +96,6 @@ Stata -->
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <!-- Etcetera<br>
