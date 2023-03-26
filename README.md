@@ -193,7 +193,7 @@ something
  -->
 
 <h1 class="main"> Education </h1>
-<img class="Photo2" src="assets/RIG_CMU2.jpg" atl="Ricardo Ibarra"  width="200" height="240">
+<img class="Photo2" src="assets/RIG_CMU2.jpg" atl="Ricardo Ibarra"  width="180" height="210">
 
 <img class="Photo" src="assets/CMU.png" atl="Carnegie Mellon logo"  width="45" height="45"> <b>Carnegie Mellon University</b><br>
 MSc in Public Policy and Data Analytics<br>
