@@ -69,7 +69,7 @@ Teaching Assistant for <b>Intermediate Python, Geographic Information Systems (G
 Tutoring for <b>Introduction to Python </b><br>
 
 
-<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="600" height="260">
+<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="640" height="250">
 <!-- <img class="Graph"  src="assets/my_interests_and_skills_2.png" atl="Donut chart with interests and skills"  width="260" height="160"> -->
 <br>
 
