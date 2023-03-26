@@ -14,6 +14,10 @@ img.Photo {
    float: left;
    padding-right: 16px;
 }
+img.Photo2 {
+   float: right;
+   padding-right: 16px;
+}
 img.Graph {
    float: right;
    padding-right: 4px;
@@ -71,6 +75,7 @@ Tutoring for <b>Introduction to Python </b><br>
 
 <img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="640" height="250">
 <!-- <img class="Graph"  src="assets/my_interests_and_skills_2.png" atl="Donut chart with interests and skills"  width="260" height="160"> -->
+<br>
 <br>
 
 
@@ -188,12 +193,15 @@ something
  -->
 
 <h1 class="main"> Education </h1>
+<img class="Photo2" src="assets/RIG_CMU2.JPG" atl="Ricardo Ibarra"  width="200" height="240">
 
 <img class="Photo" src="assets/CMU.png" atl="Carnegie Mellon logo"  width="45" height="45"> <b>Carnegie Mellon University</b><br>
 MSc in Public Policy and Data Analytics<br>
 <br>
 <img class="Photo" src="assets/ITAM.jpg" atl="ITAM logo"  width="45" height="45"> <b>ITAM</b><br>
 BA in Economics<br>
+
+
 
 <!-- 
 # Telling stories with data
