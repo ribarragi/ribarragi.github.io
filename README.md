@@ -177,10 +177,18 @@ Augist, 2021 - December, 2021<br>
 <br>
 <br> -->
 
+
+
+<!-- <b>Honda project</b>
+In progress
+Included scraping >1 million entries fro Honda forums and analyse them to get a better sense of customers' brand perception -->
+
 <b>Interactive covid vaccination maps in the U.S. (plotly) --> <a href="https://ribarragi.github.io/past_projects/US_BoosterMap_county.html">Continental U.S.</a> --> <a href="https://ribarragi.github.io/past_projects/BoosterMap_county_FL.html">Florida</a> --> <a href="https://ribarragi.github.io/past_projects/BoosterMap_county_GA.html">Georgia</a> --> <a href="https://ribarragi.github.io/past_projects/BoosterMap_county_PA.html ">Pennsylvania</a></b><br>
 August, 2021 - December, 2021<br>
 <br>
 <br>
+
+
 
 <!-- <h1 class="main">Previous work experience<h1>
 <h2> Carvana </h2>
