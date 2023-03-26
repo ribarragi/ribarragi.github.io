@@ -54,9 +54,34 @@ Social listening to enhance consumer experience
 
 Geographic data analytics...
 
+Data Science
+
+Data analytics
+SQL
+Python
+Pyspark   
+
 Teaching Assistant for <b>Intermediate Python, Geographic Information Systems (GIS)</b><br>
 Tutoring for <b>Introduction to Python </b><br>
 
+<!-- # METER UNA GRAFICA DE INTERESES
+25% GIS
+40% Data analytics
+25% Machine learning
+10% Otra cosa?
+Economic analysis
+Consumer behavior
+
+
+Skills
+SQL
+Python
+R
+GIS
+Stata -->
+
+<!-- <img src="assets/donut_chart.html" atl="Ricardo Ibarra"  width="200" height="240"> -->
+![alt text](assets/donut_chart.html)
 
 <br>
 <br>
@@ -104,7 +129,6 @@ Analyze historical data of tornadoes in the U.S. from 2000 throu 2008: perform k
 February, 2022 <br>
 Assess walkability of two neighborhoods in Pittburgh, PA, based on different criteria such as density, availability of parks and playgrounds, terrain elevation, and street patterns. <br>
 <br>
-<br>
 <b>Distribution mapping for Electric Vehicle Charging within urban communities</b><br>  
 <b>In progress...</b><br>
 Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
@@ -120,7 +144,6 @@ Brief description<br>
 Date, 2021 - Date, 2021 <br>
 Dashboard showing crimes committed in Chicago during 2022. The dashboard contains: 1) a bar chart with the number of crimes per month; 2) a tree map with the type of crimes; 3) a heat map witht he crimes by time and day of the week; and 4) a table with the raw data. All 4 elements are reactive to the filters: Location of crime, include/exclude domestic violence crimes. Selected data can be downloaded as a csv file. <br>
 <br>
-
 <b> U.S. airports (1990 - 2022) --> <a href="https://wxctrb-ricardo-ibarra0gil.shinyapps.io/final_app/?_ga=2.56959658.1004282767.1679676223-1603397868.1679676223">Dashboard</a> --> <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html">Code</a></b><br>
 Date, 2021 - Date, 2021 <br>
 Dashboard displaying 1) location of U.S. airports on a map; 2) stacked bar chart with total flyers in selected airports by year and by carrier origin; 3) top 5 carriers operating in selected airports with total no. of passengers. All elements are reactive to the filters that enable the user to select: the airport(s) to be shown in map and data dsiplayed, the years for which the data will be displayed; 3) the state(s). Selected data can be downloaded as a csv file. <br>
