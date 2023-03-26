@@ -58,7 +58,7 @@ The use of data to better understand consumer behavior
 Social listening to enhance consumer experience
 
 Geographic data analytics...
-<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="360" height="280">
+<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="340" height="260">
 
 Data Science
 
