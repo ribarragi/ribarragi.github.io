@@ -15,7 +15,7 @@ img.Photo {
    padding-right: 16px;
 }
 img.Graph {
-   float: right;
+   float: center;
    padding-right: 4px;
 }
 h1.main {
@@ -58,11 +58,12 @@ The use of data to better understand consumer behavior
 Social listening to enhance consumer experience
 
 Geographic data analytics...
+<br>
 
 
-
-<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="400" height="260">
-<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="340" height="220">
+<img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="600" height="260">
+<h2> My interests and skills </h2>
+<!-- <img class="Graph"  src="assets/my_interests_and_skills_2.png" atl="Donut chart with interests and skills"  width="260" height="160"> -->
 <br>
 <br>
 <br>
