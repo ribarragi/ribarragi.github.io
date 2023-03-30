@@ -50,7 +50,8 @@ a:hover{
 
 
 I am currently a graduate student at <b>Carnegie Mellon University </b>
-
+<br>
+<br>
 <!-- My main interests are:
 Machine learning ..
 
