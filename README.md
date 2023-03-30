@@ -51,7 +51,7 @@ a:hover{
 
 I am currently a graduate student at <b>Carnegie Mellon University </b>
 
-My main interests are:
+<!-- My main interests are:
 Machine learning ..
 
 To solve complex problems.
@@ -70,7 +70,7 @@ Python
 Pyspark   
 
 Teaching Assistant for <b>Intermediate Python, Geographic Information Systems (GIS)</b><br>
-Tutoring for <b>Introduction to Python </b><br>
+Tutoring for <b>Introduction to Python </b><br> -->
 
 
 <img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="640" height="250">
