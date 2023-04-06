@@ -48,10 +48,16 @@ a:hover{
 
 <h2> About me </h2>
 
+I am a trained Economist with a strong background in <b>statistics</b>, and a passion for uncovering insights from data. My previous professional experience includes extensive consulting work on energy related policies. 
 
-I am currently a graduate student at <b>Carnegie Mellon University </b>
+During the last few years I have pivoted into <b>data analytics</b>, with special interest in <b>public policy</b>, <b>consumer behavior</b>, <b>health policy</b>,  <b>natural language processing and social media analysis</b>, <b>machine learning for problem solving</b>, and <b>geospatial analysis</b>. 
+
+I am currently a Master's student at Carnegie Mellon University, where I have refined and expanded my programming and analytical skill set. 
+
+At Carnegie Mellon, I have collaborated as a Teaching Assistant for <b>Intermediate Python</b>, <b>Geographic Inforamtion Systems (GIS)</b>, and tutored for <b>Introduction to Programming with Python<b>
+
 <br>
-<br>
+
 <!-- My main interests are:
 Machine learning ..
 
@@ -73,8 +79,9 @@ Pyspark
 Teaching Assistant for <b>Intermediate Python, Geographic Information Systems (GIS)</b><br>
 Tutoring for <b>Introduction to Python </b><br> -->
 
-
 <img class="Graph"  src="assets/my_interests_and_skills.png" atl="Donut chart with interests and skills"  width="640" height="250">
+
+
 <!-- <img class="Graph"  src="assets/my_interests_and_skills_2.png" atl="Donut chart with interests and skills"  width="260" height="160"> -->
 <br>
 <br>
