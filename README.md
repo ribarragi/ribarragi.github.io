@@ -55,7 +55,6 @@ During the last few years I have pivoted into <b>data analytics</b>, with specia
 I am currently a Master's student at Carnegie Mellon University, where I have refined and expanded my programming and analytical skill set. 
 
 At Carnegie Mellon, I have collaborated as a Teaching Assistant for <b>Intermediate Python</b>, <b>Geographic Inforamtion Systems (GIS)</b>, and tutored for <b>Introduction to Programming with Python<b>
-
 <br>
 
 <!-- My main interests are:
@@ -83,6 +82,7 @@ Tutoring for <b>Introduction to Python </b><br> -->
 
 
 <!-- <img class="Graph"  src="assets/my_interests_and_skills_2.png" atl="Donut chart with interests and skills"  width="260" height="160"> -->
+<br>
 <br>
 <br>
 
