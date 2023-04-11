@@ -122,11 +122,11 @@ Etcetera<br> -->
 August, 2022 - December, 2022<br>
 Examined tweets about different brands of glucose-monitoring devices to find the most relevant features for positive and negative sentiments, uncover users’ knowledge gaps, and recommend the brands what actions would improve users’ perceptions<br>
 <br> -->
-<b>Detection of Monkeypox and simulation of early detection policies using a Convolutional Neural Network and epidemiological models --> <a href="https://github.com/ribarragi/past_projects/blob/72246a17a20fb6acceea934dabe03c2acc1354e2/SIR_NN_Project%20Report.pdf"> Final report </a> --> <a href="https://github.com/mahrukh-k/DABP.git">Code</a></b><br>
+<b>Detection of Monkeypox and simulation of early detection policies using a Convolutional Neural Network and epidemiological models --> <a href="https://github.com/ribarragi/past_projects/blob/72246a17a20fb6acceea934dabe03c2acc1354e2/SIR_NN_Project%20Report.pdf"> Report </a> --> <a href="https://github.com/mahrukh-k/DABP.git">Code</a></b><br>
 August, 2022 - December, 2022<br>
 Developed an app to identify monkeypox from skin lesions imagery, as well as an epidemiological model to simulate the app’s impact on the spread of monkeypox in U.S. population<br>
 <br>
-<b>Profiling credit card clients for a bank using dimensionality reduction and clustering--> <a href="https://ribarragi.github.io/past_projects/Profiling_CC_brief.html#/">Final report with code</a></b><br>
+<b>Profiling credit card clients for a bank using dimensionality reduction and clustering--> <a href="https://ribarragi.github.io/past_projects/Profiling_CC_brief.html#/"> Report with code</a></b><br>
 January, 2022 - April, 2022<br>
 Analyzed customers' usage of credit cards using Principal Component Analysis and different clustering methods to generate clients' profiles and recommend tailored strategies and products.<br>
 <br>
@@ -134,7 +134,7 @@ Analyzed customers' usage of credit cards using Principal Component Analysis and
 January, 2023 - ...<br>
 <!-- Developed an app to identify monkeypox from skin lesions imagery, as well as an epidemiological model to simulate the app’s impact on the spread of monkeypox in U.S. population<br> -->
 <br>
-<b>Social listening for Honda (ongoing). --> <a href="https://ribarragi.github.io/"> In progress </a></b><br>
+<b>Social listening for Honda --> <a href="https://ribarragi.github.io/"> In progress </a></b><br>
 January, 2023 - ...<br>
 Conducted customer sentiment analysis to inform messaging strategy for the promotion of Honda's electric vehicles, leveraging Brandwatch to gather social media data, as well as scraping data from online forums for analysis.<br>
 <br>
@@ -165,7 +165,7 @@ Locate the best sites for Electric Vehicle public charging stations, considering
 <br>
 <br>
 <h2> R  and R Shiny  </h2>
-<b> Analysis of car crashes in Allegheny county --> <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html"> Final report</a> --> <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html"> Code </a></b><br>
+<b> Analysis of car crashes in Allegheny county --> <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html"> Report</a> --> <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html"> Code </a></b><br>
 Date, 2021 - Date, 2021 <br>
 Brief description<br>
 <br>
