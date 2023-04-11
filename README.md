@@ -54,7 +54,7 @@ During the last few years I have pivoted into <b>data analytics</b>, with specia
 
 I am currently a Master's student at Carnegie Mellon University, where I have refined and expanded my programming and analytical skill set. 
 
-At Carnegie Mellon, I have collaborated as a Teaching Assistant for <b>Intermediate Python</b>, <b>Geographic Inforamtion Systems (GIS)</b>, and tutored for <b>Introduction to Programming with Python<b>
+At Carnegie Mellon, I have collaborated as a Teaching Assistant for <b>Intermediate Python</b>, <b>Geographic Inforamtion Systems (GIS)</b>, and tutored for <b>Introduction to Programming with Python</b>
 <br>
 
 <!-- My main interests are:
@@ -130,10 +130,16 @@ Developed an app to identify monkeypox from skin lesions imagery, as well as an 
 January, 2022 - April, 2022<br>
 Analyzed customers' usage of credit cards using Principal Component Analysis and different clustering methods to generate clients' profiles and recommend tailored strategies and products.<br>
 <br>
-<b>Sentiment analysis of social media posts relate to train derailment in East Palestine Ohio: were government, media and people in the same channel? --> <a href="https://github.com/ribarragi/Intro_AI_project.git"> In progress </a></b><br>
+<b>Sentiment analysis of social media posts relate to train derailment in East Palestine Ohio: were government, media and people in the same channel? --> <a href="https://github.com/mahrukh-k/AI-Project"> In progress </a></b><br>
 January, 2023 - ...<br>
-Developed an app to identify monkeypox from skin lesions imagery, as well as an epidemiological model to simulate the app’s impact on the spread of monkeypox in U.S. population<br>
+<!-- Developed an app to identify monkeypox from skin lesions imagery, as well as an epidemiological model to simulate the app’s impact on the spread of monkeypox in U.S. population<br> -->
 <br>
+<b>Social listening for Honda (ongoing). --> <a href="https://ribarragi.github.io/"> In progress </a></b><br>
+January, 2023 - ...<br>
+Conducted customer sentiment analysis to inform messaging strategy for the promotion of Honda's electric vehicles, leveraging Brandwatch to gather social media data, as well as scraping data from online forums for analysis.<br>
+<br>
+
+
 
 
 
