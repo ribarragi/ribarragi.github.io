@@ -50,7 +50,8 @@ a:hover{
 
 I am a trained Economist with a strong background in <b>statistics</b>, and a passion for uncovering insights from data. My previous professional experience includes extensive consulting work on energy related policies. 
 
-During the last few years I have pivoted into <b>data analytics</b>, with special interest in <b>public policy</b>, <b>consumer behavior</b>, <b>health policy</b>,  <b>natural language processing and social media analysis</b>, <b>machine learning for problem solving</b>, and <b>geospatial analysis</b>. 
+<!-- During the last few years I have pivoted into <b>data analytics</b>, with special interest in <b>public policy</b>, <b>consumer behavior</b>, <b>health policy</b>,  <b>natural language processing and social media analysis</b>, <b>machine learning for problem solving</b>, and <b>geospatial analysis</b>.  -->
+During the last few years I have pivoted into <b>data analytics</b>, with special interest in <b>product analytics</b>, <b>consumer behavior</b>, <b>natural language processing</b>, <b>social media analysis</b>, <b>machine learning for problem solving</b> and <b>geospatial analysis</b>. 
 
 I am currently a Master's student at Carnegie Mellon University, where I have refined and expanded my programming and analytical skill set. 
 
