@@ -160,7 +160,8 @@ Analyze historical data of tornadoes in the U.S. from 2000 throu 2008: perform k
 February, 2022 <br>
 Assess walkability of two neighborhoods in Pittburgh, PA, based on different criteria such as density, availability of parks and playgrounds, terrain elevation, and street patterns. <br>
 <br>
-<b>Distribution mapping for Electric Vehicle Charging within urban communities</b><br>January, 2023 - June, 2023</br>  
+<b>Distribution mapping for Electric Vehicle Charging within urban communities</b>
+<br>January, 2023 - June, 2023</br>  
 <!-- <b>In progress...</b><br> -->
 Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
 <br>
@@ -168,7 +169,7 @@ Locate the best sites for Electric Vehicle public charging stations, considering
 <h2> R  and R Shiny  </h2>
 <b> Analysis of car crashes in Allegheny county --> <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html"> Report</a> --> <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html"> Code </a></b><br>
 Date, 2021 - Date, 2021 <br>
-Brief description<br>
+Exploratory data analysis of car crahses in Allegheny County, exploring potential factors that increase the risk of high impact events. <br>
 <br>
 <b>Crimes in  Chicago, 2022 --> <a href="https://wxctrb-ricardo-ibarra0gil.shinyapps.io/hw1-ribarrag/">Dashboard</a> -->
 <a href="https://ribarragi.github.io/past_projects/Carcrashes_Allegheny.html">Code</a></b><br>
