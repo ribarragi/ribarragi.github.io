@@ -131,13 +131,13 @@ Developed an app to identify monkeypox from skin lesions imagery, as well as an 
 January, 2022 - April, 2022<br>
 Analyzed customers' usage of credit cards using Principal Component Analysis and different clustering methods to generate clients' profiles and recommend tailored strategies and products.<br>
 <br>
-<b>Sentiment analysis of social media posts relate to train derailment in East Palestine Ohio: were government, media and people in the same channel? --> <a href="https://github.com/mahrukh-k/AI-Project"> In progress </a></b><br>
-January, 2023 - ...<br>
+<b>Sentiment analysis of social media posts relate to train derailment in East Palestine Ohio: were government, media and people in the same channel? <a href="https://github.com/mahrukh-k/AI-Project"> --> Code </a></b><br>
+January, 2023 - June, 2023<br>
 <!-- Developed an app to identify monkeypox from skin lesions imagery, as well as an epidemiological model to simulate the app’s impact on the spread of monkeypox in U.S. population<br> -->
-<br>
-<b>Social listening for Honda --> <a href="https://ribarragi.github.io/"> In progress </a></b><br>
-January, 2023 - ...<br>
-Conducted customer sentiment analysis to inform messaging strategy for the promotion of Honda's electric vehicles, leveraging Brandwatch to gather social media data, as well as scraping data from online forums for analysis.<br>
+<!-- <br> -->
+<!-- <b>Social listening for Honda <a href="https://ribarragi.github.io/"> In progress </a></b><br> -->
+<!-- January, 2023 - ...<br> -->
+<!-- Conducted customer sentiment analysis to inform messaging strategy for the promotion of Honda's electric vehicles, leveraging Brandwatch to gather social media data, as well as scraping data from online forums for analysis.<br> -->
 <br>
 
 
@@ -160,8 +160,8 @@ Analyze historical data of tornadoes in the U.S. from 2000 throu 2008: perform k
 February, 2022 <br>
 Assess walkability of two neighborhoods in Pittburgh, PA, based on different criteria such as density, availability of parks and playgrounds, terrain elevation, and street patterns. <br>
 <br>
-<b>Distribution mapping for Electric Vehicle Charging within urban communities</b><br>  
-<b>In progress...</b><br>
+<b>Distribution mapping for Electric Vehicle Charging within urban communities</b><br>January, 2023 - June, 2023</br>  
+<!-- <b>In progress...</b><br> -->
 Locate the best sites for Electric Vehicle public charging stations, considering current and potential demand, equitable access, physical feasibility, sociodemographic factors, and walking distance restrictions in urban communities of the state of Pennsylvania, mainly using R, Python and ArcGIS.<br>
 <br>
 <br>
